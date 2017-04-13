@@ -1,0 +1,17 @@
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.xml
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_obj\Debug\UnityTextGame.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\ximva\Documents\Code\UnityTests\UnityTextGame\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
